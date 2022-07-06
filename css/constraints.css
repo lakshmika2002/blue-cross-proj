@@ -1,0 +1,16 @@
+* {
+    background-color: #1D2228;
+}
+
+.img {
+    width: 100%;
+    margin: 3px;
+}
+
+
+.TITLE {
+    color: #E1E2E2;
+    text-decoration: underline;
+    width: 100%;
+    text-align: center;
+}
